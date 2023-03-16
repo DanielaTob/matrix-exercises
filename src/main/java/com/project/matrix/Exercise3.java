@@ -1,7 +1,8 @@
 package com.project.matrix;
 
-public class Main {
+public class Exercise3 {
 
+    //Escriba un programa Java para imprimir la siguiente cuadrícula.
         public static void main(String[] args) {
 
             int filas = 4;
